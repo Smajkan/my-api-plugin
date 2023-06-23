@@ -12,7 +12,7 @@ The My API Plugin is a WordPress plugin designed to handle custom API functional
 - Plugin Name: My API Plugin
 - Description: A plugin to handle custom API functionality.
 - Version: 1.0
-- Author: Your Name
+- Author: Aldin Smajkan
 
 ### Enqueue Scripts and Stylesheets
 The plugin enqueues a script called `my-api-script.js` using the `wp_enqueue_script` function. This script is dependent on jQuery and is loaded in the footer of the web page.
